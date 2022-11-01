@@ -1,0 +1,27 @@
+package tabuada;
+
+import java.util.Scanner;
+public static Scanner Leia = new Scanner(System.in)
+
+public class Tabuada {
+
+	
+	
+			
+			
+	public static void main(String[] args) {
+		
+							
+				int numero;
+				
+		System.out.println("Digite um numero");
+		leia = leia.nextInt();
+				
+				for(int contador = 1; contador <= 10; contador ++) {
+					
+				System.out.println("\n" );
+				}
+
+	}
+
+}
